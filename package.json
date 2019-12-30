@@ -1,6 +1,6 @@
 {
-  "name": "number-to-bn",
-  "version": "1.7.0",
+  "name": "@exodus/number-to-bn",
+  "version": "1.7.0-exodus1",
   "description": "A simple method that will convert numbers, hex, BN or bignumber.js object into a BN.js object.",
   "main": "src/index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/SilentCicero/number-to-bn.git"
+    "url": "git+ssh://git@github.com/ExodusMovement/number-to-bn.git"
   },
   "engines": {
     "npm": ">=3",
@@ -37,9 +37,9 @@
   "author": "Nick Dodson <thenickdodson@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SilentCicero/number-to-bn/issues"
+    "url": "https://github.com/ExodusMovement/number-to-bn/issues"
   },
-  "homepage": "https://github.com/SilentCicero/number-to-bn#readme",
+  "homepage": "https://github.com/ExodusMovement/number-to-bn#readme",
   "dependencies": {
     "bn.js": "4.11.6",
     "strip-hex-prefix": "1.0.0"
