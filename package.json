@@ -49,6 +49,9 @@
   "testling": {
     "files": "src/tests/*.js"
   },
+  "files": [
+    "src/index.js"
+  ],
   "devDependencies": {
     "bignumber.js": "3.0.1",
     "chai": "3.5.0",
